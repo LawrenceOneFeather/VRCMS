@@ -1,0 +1,149 @@
+Site (Club)/Event Name
+This site is in controlled airspace – strict compliance with these rules is required.  The following rules package must be available to all RPAS Pilots while operating RPAS at this site, either electronically or in print.
+Site/Event owners to modify the below to meet their additional needs.
+Administrative Rules
+1.	Site location or address
+2.	The NAV CANADA Unit name and airspace classification for the airspace volume as contained in the Designated Airspace Handbook (DAH) or RPAS Wilco.
+3.	Any administrative site/event time or date restrictions related to operating RPA at the site, such as for noise concerns or the date or dates of the event. Operational restrictions related to airspace access are to be placed in the procedures section.
+4.	Any terms or conditions of site usage or event participation related to membership, fees/dues, and provisions for guests and spectators.
+5.	Any site/event RPAS pilot proficiency or competency requirements.
+6.	Clearly specify any other administrative terms or conditions in the controlling agency permission/authorization if required. Operational conditions are to be placed in the procedures section.
+7.	Sites that permit visiting RPAS pilots must also include guidance on how those pilots will be briefed on the rules per the preceding.
+8.	Any other administrative issues the site/event deems appropriate.
+9.	Ending with this statement providing the contact number (911 or phone #) for emergency services, including the civic address or location to provide.
+
+In the event of an emergency, call 911 - the address is XXXX.
+
+Normal operating procedures and Club safety rules
+1.	The types of modelling activities permitted at the site/event and any operational restrictions such as size, speed or powerplant type etc. All RPAS rules should be stated first, and non-RPAS appended to the end.
+2.	Advanced RPAS Pilot certification is required to operate RPAS at the site/event.
+3.	Conformance to MAAC RPAS Manufacturer Declaration is mandatory for all RPAS pilots. The MAAC RPAS Manufacturer Declaration policy items are append to this rules package. 
+4.	When using NAV DRONE, the specific process for each RPAS pilot including any process for varying RPAS.  
+5.	Any operational site or airspace access permission requirements as required by the controlling user agency. This may include contacting a specified person or unit before accessing the site or commencing RPAS operations for the day. This may also be included for the end-of-day procedures. If the ATC unit has limited hours of operation, that should be clearly noted here, including whatever ATS agency assumes responsibility after hours.
+6.	Any other air traffic control, user agency or operational or coordination procedures as appropriate such as contact numbers and protocols or hours of operation.
+7.	Any controlling agency required or permitted operational RPA conditions such as altitude allowances/restrictions, speed, or other performance limits.
+8.	If operating within controlled airspace and that airspace status may change to civilian uncontrolled airspace, the rules must explicitly state the process to determine who is the controlling agency and the implications thereof (including any separate rules to meet MAAC uncontrolled airspace requirements).
+9.	The site survey protocols to be used for each flying session. A copy of a recent site survey for the site/event must be always present – either in print or electronically. MAAC endorses the use of RPAS Wilco, provided a site survey is conducted at least once per flying session (once per day). A group site survey is permitted, provided the information is readily available to all RPAS pilots, including weather and NOTAM information.
+10.	A text description or map of normal site operating procedures depicting site set-up areas such as parking, spectator areas, pit, or assembly areas, and start-up/run-up areas including confirmation of the MAAC required buffer distances.
+11.	A text description of any pre-flight assembly and daily testing requirements, which must include direction to confirm fail-safe settings are active where required (per MAAC manufacture declaration).
+12.	A text description of start-up or arming restrictions and any take-off, landing approach, and recovery procedures.
+a.	All models will be restrained before being armed or started in the designated startup areas.
+b.	hand launching and bungee launching shall be done in agreement with any pilots flying – normally off to one side of the pilot stations.
+c.	Pilots shall take off into the prevailing winds, or otherwise in agreement with all pilots flying.
+d.	The recovery of downed models in the flying area shall not be done without the agreement of all pilots flying.  Thereafter no new models may take-off until the downed model is recovered.  No flying directly over the recovery crew.
+13.	A text description or map of the flying area, including any no-fly zones, a description or depiction of the flight line, safety line, runways, taxiways, and any other pertinent flying area demarcation.
+14.	A text description of emergency procedures, including loss of control or orientation, any “fly-away” procedures such as notifying ATC or an adjacent aerodrome operator, and any other emergency procedures such as phone numbers for emergency services as they deem appropriate.
+15.	A text description of any site procedures required for multiple RPAS pilots or for “formation flying,” – which is where two or more pilots agree to fly the same flight path in proximity.
+16.	A process to determine “night” and any restrictions or requirements to operate RPA at night.
+17.	A process to check for aviation NOTAM for the site, either via the nearest aerodrome or by area.
+18.	Stipulated minimum weather conditions, which the controlling agency or the site/event may require. The MAAC mandated minimum weather conditions for RPAS are:
+a.	no cloud is present below 1000’ above the model flying area, and
+b.	a horizontal visibility requirement of 3sm (5km) or more around the flying area, and
+c.	no other obscuring conditions (fog, smoke, haze etc.) which could make spotting full-scale aircraft difficult.
+19.	Visual observers are mandatory in controlled airspace and the rules must contain the following information:
+a.	Visual observers for operations in controlled airspace must be certified RPAS pilots (basic or advanced). A minimum of one visual observer per flight line is required.
+b.	The rules must state how a visual observer(s) will be briefed or trained on any site/event procedures upon spotting a potential conflict with full-scale aircraft.
+c.	If radio monitoring is used, the rules must state whether the visual observer or the RPA pilot maintains a listening watch of the applicable aerodrome traffic frequency found in the CFS or on VNCs. Any person transmitting on a VHF radio must hold a ROC-A.
+d.	The rules must state where the visual observer(s) should be located and that their view of the sky must be unobstructed and free from the sun’s glare.
+e.	The rules must state what is required for an alerting device of suitable noise level (voice, horn or similar) or visual means to be immediately noticed by all active modellers.
+f.	Members must not make any ambient noise generation during model operations, which could interfere with visual observer(s) aural notifications. This includes loud music or announcers, run-ups, engine tuning, loud generators near pilots or similar.
+20.	The rules must state the response of any modeller/RPAS pilot upon detection or notification of an approaching full-scale aircraft in the air or on the ground, including conditions for suspension or resumption of flying activities.
+a.	Lateral deconfliction maneuvers are prohibited above 60’AGL.
+b.	In some instances, there may be a need to stipulate that intentional grounding/crashing of the RPA is the desired solution.
+c.	In some instances, there may be a need to describe a response to vehicle movements or inadvertent bystanders approaching.
+Example
+21.	Visual observers will be briefed on this rules package before assuming the role of VO.
+22.	The sole role is to scan the sky for approaching full scale aircraft – do not watch the RPA.  Pay particular attention to (whatever direction airplanes might come from etc.)
+23.	The visual observer should use the Club handheld receiver to monitor the XXXX for XXXX.
+24.	The visual observer should stand or sit at the start up stand closest to any pilots flying, but away from the start up stand(s) in use.  Be close enough so they can hear you.  
+25.	When spotting a potential conflict – yell AIRPLANE in a clear loud voice.
+26.	All pilots flying will descend as low as possible – aiming for 60’agl – and if need be, land as soon as safely able.
+27.	When the VO believes, or the pilots flying observe the airplane is no longer a problem yell – ALL CLEAR.  Flying may resume as normal.
+
+28.	The process and procedures to follow in the event of any observed incident or accident, including involving full-scale aviation or injuries to persons requiring medical attention (as listed in CAR 901.49). These must include the following:
+a.	a process to determine a risk mitigation analysis before the resumption of flying activities. Members may use the MAAC-supplied reportable occurrence form for self-reporting purposes (CAR901.49 (2)).
+b.	Members must also report any reportable occurrences per MAAC Reportable occurrence policy for MAAC requirements.
+Example:
+29.	If there is any type of near miss or safety concern between a full-scale aircraft and our RPA, ALL FLYING SHALL cease immediately.  The members involved should fill out a MAAC reportable occurrence report and submit that to the Club executive and follow MAAC policy with the following exceptions: 
+
+a.	If the member(s) involved believe the risk was very minimal, they may complete their own self declaration or risk assessment using the MAAC form.  Submit a copy of the form to the club executive when able and recall you must keep this form for one year (CAR901.49 (2)). Resume flying when done.
+b.	If the member or Club executive deems the event serious, flying will not resume until members are given permission by the Club executive – in writing.
+c.	If there is actual contact between an aircraft and a MAAC RPAS – all flying will cease until MAAC confirms we may resume operations.
+d.	This process is for your protection.
+
+30.	A description of any process to follow after any normally expected modelling “mishaps” which require maintenance activities before the resumption of flying activities. The rules may also stipulate annual or recurring maintenance requirements if deemed necessary over and above the MAAC Safety Code requirements.  
+Example:
+31.	In the event of any normally expected modelling mishap which requires any degree of repair, the model may only be “field repaired” if all normal modelling supplies and tools are present and used in accordance with established modeling practices or manufacturer instructions.
+a.	Any repair other than minor (replacing broken propeller etc.) shall be treated as a maiden flight.  Ensure logbook entries are made.
+b.	Any repair that cannot be fixed at the field, shall only be repaired at the modellers/owners shop or other repair facility.  Ensure logbook entries are made.
+
+32.	A statement indicating how these rules will be updated and reviewed.
+If the site permits other categories of models, list the rules here:
+Tethered (control line), Free Flight, Space Models, Surface Vehicles.
+If the site or event is within 3nm of a civilian aerodrome whether located inside or outside the controlled airspace volume, the additional procedures outlined in MAAC policy for “operations within 3nm of an aerodrome” must be appended to the above rules package.
+If the site or event is within 3nm of an aerodrome operated by the DND whether located inside or outside the controlled airspace volume, the additional procedures found in MAAC SOC DND airspace – SFOC must be met.
+If the site or event is on an aerodrome, whether civilian or DND, the additional procedures outlined in MAAC policy for “operations on an aerodrome” must be appended to the above rules package.
+ 
+MAAC Manufacturer Declaration requirements
+Please refer to the full policy for additional information. The following are the core requirements of the policy that enable MAAC operation in controlled airspace.
+To be eligible to be classified as meeting the “MAAC RPAS Manufacturer Declaration”, the RPAS must meet the following technical requirements:
+a) The RPA must not weigh more than 25kg ready to fly (SFOC are not permitted),
+b) The RPA must be of a type, quality and construction or assembly method consistent with the commonly accepted definition of “model aircraft” in North America, wherein the MAAC member, using the MAAC safety code and processes, is responsible for any portion of construction or final flight ready assembly. See MAAC policy for a detailed description of the types of acceptable MAAC RPAS/model aircraft and their classifications.
+c) The control system and components must be of a type, and quality meeting Industry Canada approval and otherwise meet MAAC Safety Code and commonly accepted modeling and model industry standards for radio control installation and operation.
+d) The RPAS must not contain any type of “Human-on-the-loop” or other computer control in the control system. For clarity, deactivation, or temporary disabling of any such system is not acceptable – these types of control systems must not be present in the system.
+f) RPA operating in controlled airspace up to 400’AGL, MAAC VLOS meets CAR922.04 requirements provided the RPAS pilot operates in accordance with MAAC VLOS.
+g) The RPA must have performance capability to descend from the maximum altitude approved by the controlling agency to 60’AGL at a rate of 700 feet per minute or greater.
+h) The RPA or RPAS must have an operable “flight termination” system or design criteria that can be reasonably expected to terminate the flight with minimal delay in the event of a control link failure. 
+i) If intended to be flown at night, or if required by the controlling agency during the day, the RPA must have a functioning lighting system to ensure MAAC VLOS requirements are met or to provide enhanced visual detection for full-scale pilots. 
+
+Prior to RPAS operation under the “MAAC RPAS Manufacturer Declaration”, the RPAS pilot shall ensure the RPAS owner has documentation available at the site/event for each RPA which contains the following information. This may be in electronic or printed format however MAAC highly recommends this information be included in the RPA logbook, either as a separate page entry, an addendum, or as a package of info 
+a) RPA Make or manufacturer name, 
+b) Model – the specific RPA model designation including the bound/used transmitter. 
+c) The RPA category (MAAC Model Aircraft, MAAC Rotary Wing, MAAC Hybrid)
+d) The RPA maintenance program that includes:
+i. instructions related to servicing and maintaining the RPA and control system, 
+ii. An inspection program to maintain system readiness. 
+e) Any weight limits or center of gravity concerns or related special requirements. 
+f) Any RPA design features such as limitations on speed, altitude, or operational restrictions, 
+g) Any foreseeable weather conditions or limitations affecting RPAS operation, 
+h) Any special or unique features of the system that could result in severe injury to crew members during operation. 
+i) Any special or unique design features of the system, and the operating procedures, that are intended to protect against injury any person not involved in the operation, 
+j) Any warning information provided to the pilot notifying any degraded system performance, 
+k) Any special or procedures for operating in normal or emergency conditions, 
+l) Any special assembly, adjustment, or post flight inspection requirements, and 
+m) Any available manuals or component operating instructions. 
+n) The above records shall be kept by the owner, and any subsequent MAAC owner for the life of the RPAS, or until two years after the RPAS is withdrawn from service and de-registered. 
+
+
+
+To operate a RPAS under the “MAAC RPAS Manufacturer Declaration”, the RPAS pilot shall ensure the following requirements are met: 
+a) All other relevant sections of the CAR are met, 
+b) The RPAS is operated in compliance with the MAAC Safety Code and any category specific rules or requirements. 
+c) The RPAS meets the technical requirements of MAAC policy, 
+e) The RPAS shall not be operated in any mode other than “direct manual control” 
+f) The pilot shall not operate more than one RPAS at a time. 
+g) The pilot shall not operate the RPA unless any equipped onboard flight termination system is operable, 
+h) The RPA shall not be operated within 30 meters of any bystander or spectator, under any circumstances and regardless of altitude. 
+i) The pilot shall not operate an RPAS unless at least one visual observer is present Note, unless required by the controlling agency or stipulated in the site SOC, mRPAS do not require a visual observer. 
+j) The RPAS shall not be operated in any weather condition, near terrain or any other condition which could: 
+i. reduce or negate visual detection of approaching full scale aircraft or bystanders, 
+ii. interfere with radio control link range or clarity of reception or 
+iii. negatively affect the performance of the RPA or the control system where safety of operation could be compromised. 
+k) The pilot shall only operate a RPA of a type, size or performance capability that can realistically be expected to maintain controlled flight within the lateral and vertical flying area confines specified in the SOC or by the controlling agency, 
+l) The RPAS pilot shall report to MAAC without delay any defect, flaw or equipment performance issue that negatively affected meeting any of the technical or operational requirements of this policy. 
+i. The RPAS shall not be operated again under this declaration until both MAAC and the RPAS pilot/owner have investigated and agree the noted deficiency has been rectified. 
+ii. Members shall use the MAAC Reportable Occurrence form and MAAC shall respond in writing. Any such record shall be kept for two years from the date of the agreement to cause and remedy. 
+iii. The above records shall be kept by the owner, and any subsequent MAAC owner for the life of the RPAS, or until two years after the RPAS is withdrawn from service and de-registered. 
+
+
+
+
+ 
+Diagrams/maps
+Site set-up diagram.
+Site Flying area diagram.
+Airspace MAP – including NAV DRONE Viewer Grid altitudes or lack thereof.
+Adjacent Aerodrome map as required.
+CFS entries as required.
+Any other diagrams as required.
+TC traffic pattern map as required.
