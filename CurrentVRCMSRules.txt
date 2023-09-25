@@ -1,0 +1,78 @@
+These rules are available in print or at VRCMS.org. The club will endeavour to keep a copy at the modelling site and provide all members with a copy.
+RPAS operation (RPA with an all-up flying weight between 250 grams and 25kg) is prohibited at this site because the field is in Victoria International Airport Class C (CYYJ) controlled airspace.
+The Victoria RC Modellers Society allows the following modelling categories:
+-	mRPAS
+Administrative
+The Victoria RC Modellers Society is located at (6700 Block of Lochside Drive, Central Saanich, BC)
+All persons using this modelling site must:
+1)	Be MAAC members in good standing.
+2)	Be members of the VRCMS or an invited guest and
+3)	Agree to follow the MAAC Safety Code and all other club rules:
+In an emergency, phone 911 and the civic address for first responders is [Michell Airpark, 6700 Lochside Drive].
+“A” wings qualifications required before solo flying at the field.
+All Probationary Pilots, Guest Pilots, and Junior Members must have a spotter in the flight station, who is full Member.
+Spectators (any observer who is not a club member) must stay out of the Pits and outside the Flying Area, 
+unless they are invited and accompanied by a club member.
+Anyone without a valid MAAC membership is not allowed in the Flying Area, if the flight line is active (flying 
+activities are occurring).
+
+Flight Line Rules:
+Flying operations are only permitted from 10 am to 9 pm or dusk (whichever is earlier for gas powered aircraft) 
+and for small quiet electrics (20 oz or 567 grams or less) 9:00 am to 9:30 pm or dusk (whichever is earlier)
+Maximum of three aircraft flying at the same time (exception special events)
+15 minutes per flight maximum
+Pilots to announce their intention to land or take off.
+All aircraft shall be flown in a safe manner with consideration to others at the field.
+Flying models will immediately descend to stay well below and out of the way of all full-size aircraft that may 
+be over flying the field.   There are no common full-scale flight paths over our site so visual scanning must be in all directions. See additional visual observer rules later in this document.
+Landing mRPA shall have the right of way.
+There will be absolutely no flying:
+-Over any general area where field workers or equipment are active.  The presence of active field 	workers could easily require that no flying take place at all.
+-Behind the flight line no matter how far away from the runway, over the pits, Lochside Drive, or any area west of Lochside.
+-Over any agricultural areas that are designated as “no fly” zones
+-Over any agricultural areas closed by a member of the Executive or Safety Committee while at the field.
+
+Pit Area Rules:
+Current VRCMS and MAAC membership card (or photocopy) to be prominently displayed
+Aircraft shall utilize a restraint when being started or left running in the pit area
+No taxiing in the pit area.
+Engines off when clear of the runway after landing.
+Any member of the VRCMS Safety Committee and Executive may temporarily suspend the flying privileges of 
+any other member. The duration of the suspension and terms of reinstatement will be made by majority vote 
+of the VRCMS Executive after hearing an explanation of the circumstances leading to the suspension and 
+receiving a recommendation from the Safety Committee concerning reinstatement.
+mRPAS Specific Rules
+4)	All mRPAS must be inspected and weighed with the intended flight battery and will be required to have an inspection star affixed to the outside of the model.
+5)	Models may be randomly weighed at any time.  Any member found flying a model that exceeds the weight limit will have their flight privileges immediately suspended and the matter referred to the Safety committee for further investigation.
+6)	If a member is a Junior Member, which includes members under the age of 14, they must have a spotter in the flight station with them, who is a Full Member. 
+Normal operating procedures and Club safety rules
+7)	All members shall follow the applicable Canadian Aviation Regulations.
+8)	All pre-flight inspections or model assembly shall be done in the designated area away from the active modelling area.
+9)	Batteries shall not be connected to electric-powered models unless the model is restrained in the designated start-up area – no exceptions.
+10)	Under 250 gram only, Pilot In The Loop (PITL) mRPAS only. PITL means ONLY mRPAS that require timely and continuous input from the Pilot to remain airborne. No autonomous or semi- autonomous mRPAS systems that can remain airborne, or perform controlled flight, without continuous pilot input.
+11)	The direction of launches, take-off landing, and vehicle traffic pattern will be determined by wind direction. If there is no wind, all take-offs etc., shall be pilot’s choice, called out to all pilots before takeoff
+12)	Hand launching and bungee launching shall be done in agreement with any pilots flying by announcing intention to take off by seeking confirmation of other active pilots on the flight line BEFORE entering the runway. 
+mRPAS Site rules
+13)	MAAC members conducting mRPAS activities shall give way or otherwise immediately get out of the way of all full-scale aircraft – no exceptions.
+14)	The site set up is explained in the diagram below.
+
+Our flying area is approximately 875 meters in length and 550 meters in width, with the primary flight station located at 48° 33' 57.20" N 123° 23' 29.04" W.
+This Flying area is located inside CDAH section: 3.1.4-18 (Class C Control Zone) within the area bounded by a 
+circle of 7 miles radius centered on: N48°38'49.30" W123°25'32.80" for Victoria International (YYJ).
+15)	NOTE – MAAC and CAR rules are NO FLYING with 30m of any non-MAAC person, property, or “thing” of value. 
+16)	No flying will commence until 9am (aircraft under 20 oz or 10am over 20 oz) and end half an hour before sunset, the time of which is available on the Weather Network App for the town of Victoria, B.C.  Night flying is not allowed at the VRCMS Michell Airpark site.
+17)	VRCMS members shall check for CYYJ-related NOTAM either using the NAV CANADA NOTAM portal or the RPAS Wilco app.  If you are the first pilot of the day and have printed an RPAS Wilco site survey, please leave it at the site for fellow modellers to reference.
+18)	No mRPAS flying will occur below the MAAC-mandated weather minimum:
+a.	If cloud is present below 1000’ above the model flying area
+b.	a horizontal visibility requirement of less than 3sm around the flying area, and
+c.	If there are other obscuring conditions (fog, smoke, haze etc.) which could make spotting full-scale aircraft difficult.
+In the event of any type of model “fly-away” towards CYYJ, you may call the Victoria Intl Airport Control Tower at their emergency only number 250-655-2866 and advise of the issue.  If you are unable to contact ATC, then call the Victoria Airport Authority at 250-953-7536 Ext 4 and advise them of the issue. 
+
+1)	In the event of an emergency, such as a fire, injury to any person or any other type of event requiring emergency services, call 9 -1-1 and give them our location.
+2)	If there is any type of near miss or safety concern between a full-scale aircraft or a bystander and our models, ALL modelling SHALL cease immediately. The members involved should fill out a MAAC reportable occurrence report and submit that to MAAC and the Club executive and follow MAAC policy with the following exceptions:
+a.	If the member(s) involved believe the risk was very minimal, they may complete their own self-declaration or risk assessment using the MAAC form. Submit a copy of the form to the club executive when able, and you must keep this form for one year. Resume modelling when done. 
+b.	If the member or Club executive deems the event serious, modelling will not resume until members are given permission by the Club executive – in writing.
+c.	If there is actual contact between an aircraft, bystander and a MAAC model – all modelling will cease until MAAC confirms we may resume operations.
+d.	This process is for your protection.
+There are no other risk mitigating strategies required at Michell Airpark. 
+THE CLUB EXECUTIVE WILL REVIEW THESE RULES AT LEAST ONCE A YEAR.
