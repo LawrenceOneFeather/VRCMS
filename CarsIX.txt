@@ -1,0 +1,1468 @@
+November 2021
+For more information, contact:
+C-NLOPB CNSOPB
+The Tower Corporate Campus 8th Floor TD Centre, 1791 Barrington
+240 Waterford Bridge Road Halifax, NS B3J 3K9
+West Campus Hall; Suite 7100 Tel: (902) 422-5588
+Tel: (709) 778-1400 Fax: (902) 422-1799
+Fax: (709) 781-1473
+REMOTELY PILOTED AIRCRAFT SYSTEMS (RPAS)
+GUIDELINES
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+i
+TABLE OF CONTENTS
+DEFINITIONS .......................................................................................................................... iii
+ABBREVIATIONS................................................................................................................... viii
+FOREWORD............................................................................................................................ ix
+1.0 PURPOSE OF GUIDELINE ................................................................................................ 1
+2.0 STATUTORY AUTHORITY................................................................................................ 1
+3.0 APPLICATION/SCOPE ..................................................................................................... 1
+4.0 REMOTELY PILOTED AIRCRAFT SYSTEMS OVERVIEW ..................................................... 2
+5.0 SAFETY AND QUALITY ASSURANCE ................................................................................ 3
+5.1 Safety Management System/Safety Plan ....................................................................... 3
+5.2 Emergency Response Planning and Procedures ............................................................. 4
+5.3 Auditing and Compliance Requirements ........................................................................ 4
+6.0 INSPECTION SERVICES - ELEMENTS AND STANDARDS .................................................... 6
+6.1 RPAS Operations Documents......................................................................................... 6
+7.0 MANAGING RPAS OPERATIONS ON OFFSHORE FACILITIES ............................................. 8
+7.1 Management of RPAS Operations on a Marine Installation or Structure ........................ 8
+7.1.1 Management Roles and Responsibilities for Offshore RPAS Operations ........................ 8
+7.1.2 Control/Oversight of RPAS Operations in the Offshore Installation Environment .......... 9
+7.1.3 RPAS Team Offshore Safety Training Requirements....................................................... 9
+7.1.4 Permit to Work Requirements ......................................................................................10
+7.2 RPAS Service Provider Control of RPAS Operations Offshore ........................................10
+7.2.1 RPAS Manager and Flight Team Roles and Responsibilities...........................................10
+7.2.2 RPAS Pilot Operations Manual .....................................................................................10
+7.2.3 Communications ..........................................................................................................10
+7.2.4 Familiarization with Installation Topography and Hazardous Areas ..............................11
+7.2.5 De-confliction (during SIMOPS) with Offshore Flight Operations ..................................11
+7.2.6 De-confliction with Marine Activities............................................................................11
+7.2.7 RPAS Flight Planning, Conduct and Surveillance ...........................................................12
+7.3 Offshore Transportation and Accommodation of RPAS Personnel and Equipment........12
+7.3.1 Transporting and Accommodating RPAS Personnel Offshore ........................................12
+7.3.2 Manifesting / Transporting RPAS Equipment Offshore by Air or Sea .............................12
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+ii
+7.3.3 Dangerous Goods Compliance (e.g. Batteries) ..............................................................12
+8.0 OPERATING REMOTELY PILOTED AIRCRAFT SYSTEMS ...................................................13
+8.1 RPAS Operating Requirements and Authorizations .......................................................13
+8.1.1 RPAS ‘Permission to Operate’ Standard........................................................................13
+8.1.2 Quality Management....................................................................................................14
+8.2 RPAS Training and Competence ....................................................................................14
+8.2.1 Introduction .................................................................................................................14
+8.2.2 Managing RPAS Team Training and Competence ..........................................................15
+8.2.3 Remote Pilot Selections Standard.................................................................................16
+8.2.4 RPAS Pilot Initial Training and Experience.....................................................................16
+8.2.5 Offshore Remote Pilot and Support Crew Training, Recurrent Training, Competence and
+Currency Requirements .........................................................................................................17
+8.2.6 Minimum Crew Composition and Competence Requirements ......................................19
+8.2.7 RPAS Visual Observer ...................................................................................................19
+8.3 RPAS Equipment...........................................................................................................20
+8.3.1 RPAS Rotorcraft Airframe/Load Platform .....................................................................20
+8.3.2 RPAS Power Plants and Rotor Systems .........................................................................20
+8.3.3 RPAS Battery Requirements .........................................................................................21
+8.3.3.1 Battery Management .................................................................................................21
+8.3.4 RPAS Electronic and Data Capture Systems Requirements ............................................22
+8.4 RPAS Limitations ..........................................................................................................23
+8.4.1 Visual Conditions for Operations ..................................................................................23
+8.4.2 Weather Considerations ...............................................................................................24
+8.4.2.1 Wind ..........................................................................................................................24
+8.4.2.2 Precipitation...............................................................................................................24
+8.5 Record Keeping ............................................................................................................24
+REFERENCES...........................................................................................................................25
+APPENDICES............................................................................................................................ 1
+Appendix A: Sample Content for RPAS Operational Safety Plan .............................................. 1
+Appendix B: Sample Content for RPAS Pilot Operations Manual ............................................. 1
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+iii
+DEFINITIONS
+Unless otherwise defined, terms used in this Guideline have the same meaning as the definition
+in the Accord Acts.
+Accord Act(s): Refers to:
+• Canada Nova Scotia Offshore Petroleum Resources Accord Implementation Act [NS
+Accord Act]
+• Canada Nova Scotia Offshore Petroleum Resources Accord Implementation (Nova
+Scotia) Act
+• Canada‐Newfoundland and Labrador Atlantic Accord Implementation Act [NL Accord
+Act]
+• Canada‐Newfoundland and Labrador Atlantic Accord Implementation Newfoundland
+and Labrador Act
+For the purposes of these guidelines, references will be to the federal ve rsions of the Acts.
+Advanced Operations Pilot Certificate: Certificate required for advanced operations, in
+accordance with criteria defined by Transport Canada.
+Aircraft: Any machine capable of deriving support in the atmosphere from reactions of the air,
+and includes a rocket.
+Airworthiness: A condition in which the Remotely Piloted Aircraft Systems System (including the
+aircraft, airframe, engine, propeller, accessories, appliances, and control station) conforms to its
+type certificate (design) if applicable, and is in condition for safe operation.
+Airworthiness Certification: A repeatable process that results in a documented decision that an
+aircraft system has been judged to be airworthy. It is intended to verify that the aircraft system
+can be safely maintained and safely operated by fleet pilots within its described and documented
+operational envelope.
+Atlantic Canada Offshore Petroleum Area: The Atlantic Canada Offshore Petroleum Area refers
+to the Offshore Area(s) as defined by the Accord Act(s).
+Automated Aircraft: An aircraft with the means of executing a pre-defined process or event that
+requires pilot initiation and/or intervention.
+Autonomous Aircraft: An aircraft with the ability to execute processes or missions using onboard
+decision-making capabilities. The aircraft is not designed to allow pilot intervention in the
+management of the flight.
+Autonomous Operation: An operation during which an aircraft is operating without pilot
+intervention in the management of flight.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+iv
+Barrier: Means the technical/physical, human or organizational safeguard that is put in place to
+avoid, prevent, reduce or manage health, safety or environmental risks.
+Board: Canada-Newfoundland and Labrador Offshore Petroleum Board and/or the
+Canada-Nova Scotia Offshore Petroleum Board.
+Canadian Aviation Documents: means any license, permit accreditation, certificate or other
+document issued by the Minister under Part 1 of the Aeronautics Act to or with respect to any
+person, or in respect of any aeronautical product, aerodrome, facility or service.
+Canadian Aviation Regulations: Regulations respecting aviation and activities relating to
+aeronautics.
+Certificate of Fitness: A certificate issued by a certifying authority.
+Certifying Authority: approved third party organizations that issue a certificate of fitness to
+facilities and verify that they comply with regulatory requirements and are fit for purpose.
+Command and Control Link: The data link between the Remotely Piloted Aircraft Systems and
+the remote pilot station for the purposes of managing the flight.
+Congested Area: A congested area is usually crowded with traffic or people. In the context of on
+and offshore Remotely Piloted Aircraft Systems operations, working in a congested area should
+be determined on a case-by- case basis.
+Control Station: The facilities or equipment that are remote from a Remotely Piloted Aircraft
+Systems and from which the aircraft is controlled and monitored.
+Crew Member: A person who is assigned duties essential to the direct operation of an aircraft
+during all phases of the operation.
+De-confliction: Reducing the risk of collision between aircraft by coordinating their movements.
+Drilling and Production Regulations: refers to either the:
+ Newfoundland Offshore Petroleum Drilling and Production Regulations
+ Nova Scotia Offshore Petroleum Drilling and Production Regulations
+Drone: Any type of Remotely Piloted Aircraft System
+Experimental Flight Permit: A permit for aircraft that are engaging in research or development.
+First-Person View Device: A device that generates and transmits a streaming video image to a
+control station display or monitor, giving the pilot of a Remotely Piloted Aircraft Systems the
+illusion of flying the aircraft from an on-board pilot’s perspective.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+v
+Flight Duty Period: The period that begins when the earliest of the following events occurs and
+ends at engines off or rotors stopped at the end of a flight:
+a) the flight crew member carries out any duties assigned by the private operator or
+the air operator or delegated by the Minister before reporting for a flight,
+b) the member reports for a flight or, if there is more than one flight during the flight
+duty period, reports for the first flight,
+c) the member reports for positioning, or
+d) the member reports as a flight crew member on standby.
+Flight Safety: The state in which risks associated with aviation activities, related to, or in direct
+support of the operation of aircraft, are reduced and controlled to an acceptable level .
+Flight Termination System: A system that, on activation, terminates the flight of a Remotely
+Piloted Aircraft System. The intentional and deliberate process of performing controlled flight
+into terrain (or water). Flight termination should be executed in the event that all other
+contingencies have been exhausted, and further flight of the aircraft cannot be safely achieved,
+or other potential hazards exist that require immediate discontinuation of flight.
+Fly-away: In respect of a Remotely Piloted Aircraft Systems, an interruption or loss of the
+command and control link such that the pilot is no longer able to control the aircraft and the
+aircraft no longer follows its preprogrammed procedures or operates in a predictable or planned
+manner.
+Handover: The act of passing piloting control from one remote pilot station to or from one pilot
+to another.
+Highly Automated: Systems that still require inputs from a pilot (e.g. confirmation of a proposed
+action) but which can implement the action without further human interaction once the initial
+input has been provided.
+Human Factors: Refers to environmental, organizational and job factors, and human and
+individual characteristics, which influence behaviour at work in a way that can affect health and
+safety.
+Lost Link: The loss of command and control link contact with the Remotely Piloted Aircraft
+Systems such that the remote pilot can no longer manage the aircraft’s flight.
+Major Damage: Damage that results in uncontrolled pollution, or loss of, or serious threat to life
+or the installation.
+Marine Installation or Structure: Refers to a “Marine Installation or Structure” as defined in the
+Accord Act(s). It also includes an “Installation” as defined in the Accord Act(s) .
+NAV Canada: The company that operates Canada’s civil air navigation service.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+vi
+Operator: The holder of an authorization issued by either the Canada - Newfoundland and
+Labrador or the Canada - Nova Scotia Offshore Petroleum Board .
+Payload: A system, an object or a collection of objects that is on board or is otherwise connected
+to a Remotely Piloted Aircraft Systems but that is not required for flight.
+Petroleum Installation Regulations: refers to either the:
+ Newfoundland Offshore Petroleum Installation Regulations; or
+ Nova Scotia Offshore Petroleum Installations Regulations
+Pilot: The person in direct control of the Remotely Piloted Aircraft Systems - See also ‘Remote
+Pilot’.
+Pilot in Command: The person who has final authority and responsibility for the operation and
+safety of flight, has been designated as PIC before or during the flight, and holds the appropriate
+category, class, and type rating, if applicable, for the conduct of the flight. The responsibility and
+authority of the PIC apply to the RPAS PIC. The RPAS PIC position may rotate duties as necessary
+with equally qualified remote pilots. The individual designated as PIC may change during flight.
+NOTE: The PIC can only be the PIC for one aircraft at a time. The PIC should meet RPAS Transport
+Canada guidance requirements for training, pilot licensing and medical requirements.
+Radio Line-Of-Sight: A direct radio link point-to-point contact between a transmitter and a
+receiver.
+Remote Pilot: A person charged by the RPAS service provider with duties essential to the
+operation of a Remotely Piloted Aircraft System and who manipulates the flight controls, as
+appropriate, during flight time.
+Remotely Piloted Aircraft: A navigable aircraft, other than a balloon, rocket or kite, that is
+operated by a pilot who is not onboard.
+Remotely Piloted Aircraft System Visual Observer: A trained and competent person designated
+by the operator who, by visual observation of the Remotely Piloted Aircraft System, assists the
+remote pilot in the safe conduct of the flight.
+Remotely Piloted Aircraft System: A set of configurable elements consisting of a remotely piloted
+aircraft, its control station, the command and control links and any other system elements
+required during flight operation. RPAS are also considered support craft.
+Remotely Piloted Aircraft System Safety Assurance: The Remotely Piloted Aircraft System Safety
+Assurance describes for users the safety limits of the drone they are using.
+Ignition
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+vii
+Remotely Piloted Aircraft Systems Commander: A trained and competent person who is
+responsible for the conduct and safety of a specific flight and for supervising the person in direct
+control of the RPAS. Duties are equivalent to those of an Aircraft Commander.
+Remote Pilot Station: The station (flight controls ) at which the Remote Pilot manages the flight
+of an unmanned aircraft.
+Safety Management System: The elements of an operator’s management system dedicated to
+safety management, whether or not these management elements are incorporated in or
+separate from the overall management system.
+Safety Plan: Sets out the procedures, practices, resources, sequence of key safety-related
+activities and monitoring measures necessary to ensure the safety of the proposed work or
+activity. Has the same meaning as defined in section 8 of the Drilling and Production Regulations.
+Support Craft: Refers to a “support craft” as defined in the Drilling and Production Regulations.
+Team Member: An individual who forms part of the RPAS team. This includes RPAS pilots, RPAS
+service provider and designated members of the marine installation or structure.
+Transitional OHS Regulations refer to either the:
+ Canada-Newfoundland and Labrador Offshore Marine Installations and Structures
+Occupational Health and Safety Regulations; or
+ Canada-Nova Scotia Offshore Marine Installations and Structures Occupational
+Health and Safety Regulations.
+Visual Line-of-Sight Operation: An operation in which the remote pilot or Remotely Piloted
+Aircraft Systems visual observer maintains direct unaided visual contact with the Remotely
+Piloted Aircraft Systems.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+viii
+ABBREVIATIONS
+ATC Air Traffic Control
+BVLOS Beyond Visual Line of Sight
+CA Certifying Authority
+CAA Civil Aviation Authority
+CCR Central Control Room
+CAN-NL Offshore Area Canada-Newfoundland and Labrador Offshore Area
+C-NLOPB Canada-Newfoundland and Labrador Offshore Petroleum Board
+CNSOPB Canada-Nova Scotia Offshore Petroleum Board
+CAP Civil Aviation Publication
+CARs Canadian Aviation Regulations
+C2 Command and Control
+FPV First-Person View
+GBS Gravity Based Structure
+GCS Ground Control Station
+GPS Global Positioning System
+ISO International Standards Organisation
+MIS Marine Installation or Structure
+MODU Mobile Offshore Drilling Unit
+OEM Original Equipment Manufacturer
+OIM Offshore Installation Manager
+PIC Pilot in Command
+PTW Permit to Work
+RPAS Remotely Piloted Aircraft Systems
+RTH Return to Home
+SMS Safety Management System
+TC Transport Canada
+TDG Transportation Dangerous Goods
+TSB Transportation Safety Board
+TQSP Training and Qualifications Standard Practice
+VFR Visual Flight Rules
+VLOS Visual Line-of-Sight
+VMC Visual Meteorological Conditions
+VO Visual Observer
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+ix
+FOREWORD
+The Canada-Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB) and Canada-
+Nova Scotia Offshore Petroleum Board (CNSOPB) have issued this guidance to assist operators
+in developing and following procedures for operating a Remotely Piloted Aircraft System (RPAS).
+The guidance is issued with the intention of encouraging offshore operators who are planning to
+use this rapidly evolving technology to think about the entire operating and safety system
+offshore and not just the aircraft.
+The onus is on the Operator to comply with the Accord Act(s) and Regulations and to demonstrate
+to the Boards the adequacy and effectiveness of the methods employed to achieve compliance.
+The onus is also on the Operator to comply with the Act(s) and regulations of other authorities,
+as applicable.
+Guidelines are developed to provide assistance to those with statutory responsibilities (including
+Operators, providers of service, suppliers, employers, employees, etc.) under the Accord Acts and
+Regulations. Guidelines provide an understanding of how regulatory requirements can be met.
+In certain cases, the goals, objectives and requirements of the legislation are such that no
+guidance is necessary. In other instances, guidelines will identify a way in which regulatory
+compliance can be achieved.
+Guidelines outline the C-NLOPB’s and CNSOPB’s reasonable expectations on how those with
+statutory responsibilities can achieve compliance with Accord Acts and Regulations.
+All statutory references in this guidance will be in accordance with the federal version of the
+Accord Acts.
+The authority to issue Guidelines and Interpretation Notes with respect to legislation is specified by
+subsection 156(1) and 210.068 of the Canada-Nova Scotia Offshore Petroleum Resources Accord
+Implementation Act (NS Accord Act), subsection 148 and 202BQ(1) of the Canada-Nova Scotia
+Offshore Petroleum Resources Accord Implementation (Nova Scotia) Act, subsection 151.1 and
+205.067 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act (NL Accord
+Act) and subsection 147 and 201.064 of the Canada-Newfoundland and Labrador Atlantic Accord
+Implementation Newfoundland and Labrador Act.
+This Guideline itself is not a statutory instrument; in this regard, the information set out in the
+Guideline does not prevent the Operator from proposing alternative methods or means to
+demonstrate compliance with the legislation. These alternatives will be considered on a case-by-
+case basis by the applicable Board. It is recommended that in proposing different alternatives,
+the operator assess the risks and hazards associated with the activity.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+1
+1.0 PURPOSE OF GUIDELINE
+The purpose of this Guideline is to provide additional information and guidance, to help ensure
+regulatory compliance, for Operators of offshore marine installations or structures (MIS) who are
+planning to use a Remotely Piloted Aircraft System (RPAS).
+2.0 STATUTORY AUTHORITY
+Section 138.2 of the NL Accord Act and Section 142.2 of the NS Accord Act states “The Board
+shall, before issuing an authorization for a work or activity … consider the safety of the work or
+activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its
+components, including its structures, facilities, equipment, operating procedures and personnel.”
+Subsection 205.068(1) of the NL Accord Act and Subsection 210.069(1)(a) of the NS Accord Act
+states “…the Chief Safety Officer shall consider the potential impact of the work or activity to be
+authorized on the health and safety of employees engaged in the work or activity…”
+Subsection 151.1(1) of the NL Accord Act and subsection 156(1) of the NS Accord Act authorize
+the Boards to issue and publish, in any manner they consider appropriate, guidelines with respect
+to the application and administration of various sections of the respective Accord Acts, including
+section 138 of the NL Accord Act and section 142 of the NS Accord Act.
+In addition, refer also to Sections 19, 27 and 69 of the Drilling and Production Regulations which
+contain general provisions in relation to safety and environmental protection and operations
+involving support craft.
+In the event of a perceived discrepancy between this Guideline and the legislation, an operator
+should consult with the Board and the Accord Acts and Regulations are to prevail.
+3.0 APPLICATION/SCOPE
+This document is applicable to the employment of Remotely Piloted Aircraft Systems (RPAS)
+within the Atlantic Canada Offshore Petroleum Area.
+This guidance document addresses:
+ Management Systems
+ Operator Safety Plan
+ RPAS Operational Safety Plan/Safety Case
+ Emergency Response Planning and Procedures
+ Auditing and Compliance Requirements
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+2
+ Inspection Services
+ Managing RPAS Operations on Offshore Facilities
+ Permit to Work Requirements
+ RPAS Service Provider Control of RPAS Operations Offshore
+ Operating RPAS
+ Record Keeping
+4.0 REMOTELY PILOTED AIRCRAFT SYSTEMS OVERVIEW
+The use of RPAS is a constantly evolving technology for assisting with survey, inspection and
+maintenance of MIS in the Atlantic Canada Offshore Petroleum Area. There are numerous types
+of RPAS operations that can be completed in an offshore environment, for exampl e:
+i. Aerial Photography/Survey/Security
+These operations usually involve flying in an open space away from structures. An example would
+be taking overview photographs of an offshore installation.
+ii. Inspection Operations
+These operations account for the majority of RPAS activities offshore. These operations usually
+involve flying close to, inside or sometimes under structures in order to get detailed imagery or
+data of the asset.
+Elements of marine installations or structures that can currently be accessed using RPAS include,
+but are not limited to:
+ Flare towers, derricks and other elevated structures
+ Flare booms
+ Live flare tips
+ Turbine generator exhausts
+ Cranes
+ Helideck support structures
+ Under deck/splash zone
+ Risers/caissons
+ Vessel hulls
+ Accommodations blocks
+ Antenna farms
+ Inside of tanks
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+3
+5.0 SAFETY AND QUALITY ASSURANCE
+5.1 Safety Management System/Safety Plan
+The Operator’s Safety Management System (SMS) and Safety Plan are key elements of ongoing
+offshore operations.
+In order to obtain an authorization, the Operator must ensure that the statutory and regulatory
+requirements pertaining to the work or activity are satisfied. Required documentation must be
+submitted in support of the authorization application to demonstrate that the work can be
+carried out safely and this documentation shall be submitted in the form of a safety plan.
+Guidance for the content of Safety Plans is provided in the Safety Plan Guidelines.
+The Operator’s safety plan should have content with respect to (at a minimum) contractor intake,
+permit to work systems and reference to how they intend to ensure the safety of any activity
+including RPAS work on their facilities.
+The Operator should have reviewed the management system of the RPAS service provider and
+how it interfaces with the Operator’s SMS. This can be in the form of a bridging document. The
+RPAS’ management system shall comply with the Accord Act(s) and Regulations of the Boards
+and, with Transport Canada (TC) requirements. It should also take into consideration
+internationally accepted best practices and guidelines with respect to RPAS activities for oil and
+gas operations.
+The RPAS operational safety plan shall describe any planned activities to be conducted by the
+RPAS service provider and describe the hazards and associated risks. It should provide
+measurable commitments respecting any equipment, procedures and training and include a
+reference to any detailed procedures or plans associated with the activity. As part of the
+installation’s Declaration of Fitness, the Operator must review and accept the equipment,
+procedures and training of personnel involved in the activity. The certifying authority would
+also review the RPAS from a temporary equipment perspective.
+The RPAS management system and RPAS operational safety plan shall include a reference to
+the RPAS procedure that includes best practices, resources, sequence of key safety related
+activities and monitoring measures necessary to ensure the safety of the proposed work or
+activity. It is an essential operational document specific to offshore operations. The RPAS
+operational safety plan shall describe any planned activities to be conducted by the service
+provider and describe the hazards and associated risks. It should provide measurable
+commitments respecting any equipment, procedures and training and include a reference to
+any detailed procedures or plans associated with the activity.
+A sample content list for an RPAS Operational Safety Plan is provided in Appendix A.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+4
+5.2 Emergency Response Planning and Procedures
+A formal emergency response plan shall be in place for all RPAS flight operations. An approved
+incident response checklist, as part of the RPAS flight operations manual, should be followed in
+the event of an incident or accident.
+Guidance for the content of Contingency Plans is provided in Section 6 of the Drilling and
+Production Guidelines. Contingency Plans shall be updated to include RPAS flight operations or a
+bridging document between the RPAS service provider and the Operator should be develop ed to
+capture this. It should also make reference to where more detailed emergency response
+procedures enacted by the RPAS team is located. An approved incident response checklist, as
+part of the flight operations manual, shall be followed in the event of an incident. The RPAS team
+shall also receive an orientation of the facility and be familiarized with the facility’s emergency
+response plan and their associated actions in response to an emergency.
+All incidents shall be reported immediately by the RPAS pilot to the Offshore Installation Manager
+(OIM) or delegate. A report to the appropriate regulatory authorities (e.g. C-NLOPB, CNSOPB or
+TC and, when applicable, to the Workplace Committee) must also be made as required by the
+Accord Acts and Regulations. These incidents shall be investigated to determine root cause(s).
+Guidance on incident reporting and investigation is provided in the Incident Reporting and
+Investigation Guidelines.
+5.3 Auditing and Compliance Requirements
+Operators should undertake a detailed operational/flight safety/commercial audit of a
+prospective RPAS service provider (including pilot and crew qualifications and experience) prior
+to contracting the company to undertake offshore RPAS operations.
+From an aviation perspective, a RPAS is an airborne platform that is used primarily as a tool for
+data collection. Therefore, aviation safety audits shall be carried out by qualified and competent
+auditors using, as a basis, the processes set out in TC Canadian Aviation Regulations [CARs]
+Standard 922 (CARs 901.76 for advanced operations).
+RPAS used to conduct advanced operations, as per TC CARs, must be declared as able to perform
+certain advanced operations safely. The RPAS Safety Assurance categories are:
+ Flight in controlled airspace
+o operations in which the drone will fly within the airspace controlled by air traffic
+control (Class A-F)
+ Flight near people
+o operations in which the drone will fly within 30 meters (for basic operations) and
+within 5 meters or directly over (for advanced operations) of any person not
+associated with the operation
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+5
+ Flight over people
+o operations in which the drone will fly directly over any person not associated with
+the operation
+ Flight in the vicinity of airports
+If RPAS are built or modified, a declaration to TC identifying the capabilities of the system must
+be made. Anyone who builds or modifies a RPAS must be able to prove that the RPAS complies
+with Canadian Aviation Regulations Standard 922 and Canadian Aviation Regulations 901.76 (or
+equivalent), if it is to be used for advanced operations. If a model does not have an RPAS Safety
+Assurance declaration, pilots cannot use that RPAS for advanced operations. For more
+information on how an RPAS Safety Assurance affects where and how pilots can fly an RPAS, see
+TC’s Choosing the Right RPAS. 1
+Pilots might also need to use RPAs outside of the rules established by TC. Therefore, a RPAS
+operator would need to apply for a Special Flight Operations Certificate (SFOC). For information
+on how to request a Special Flight Operations Certificate, refer to TC’s Getting Permission to Fly
+a Drone Outside the Rules.
+As a minimum, compliance with the following will be required:
+ RPAS pilots must comply with the rules in the CARs Part IX- Remotely Piloted Aircraft
+Systems
+ RPAS pilots must hold a valid Advanced Operations Pilot Certificate and only fly RPAS that
+are appropriately Safety Assured, registered with TC and marked with the applicable
+registration number.
+When Permission is Required to Fly RPAS2
+If a RPAS is being used for work or research, or if it weighs over 25 kilograms, the operator must
+have a Special Flight Operations Certificate (SFOC) from Transport Canada. The certificate tells
+how and where it is allowed to use the RPAS. For more information on the certificate, refer to
+TC’s Getting Permission to Fly your RPAS.
+A Special Flight Operations Certificate (SFOC) gives you permission to operate your drone outside
+the rules for a specific purpose. You need this certificate if you want to fly your drone outsi de the
+rules for basic or advanced operations.
+You might be eligible to get an SFOC if:3
+ your drone weighs over 25 kilograms (kg)
+ you want to fly your drone beyond the visual line-of-sight
+ you are not a Canadian citizen, permanent resident of Canada or a corporation
+incorporated by or under the laws of Canada or a province
+1 tc.canada.ca/aviation/drone-safety
+2 ibid
+3 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+6
+ you want to fly your drone at higher altitudes
+ you want to fly more than five drones at the same time
+ you want to fly at a special aviation event or an advertised event
+ you want to fly your drone carrying dangerous or hazardous payloads (e.g. chemicals)
+ you want to fly closer to a military airport
+6.0 INSPECTION SERVICES - ELEMENTS AND STANDARDS
+6.1 RPAS Operations Documents
+The RPAS service provider (company) operations manual should include4
+ RPAS operational Safety Plan
+ General procedures
+ RPAS equipment and systems information
+ Management system
+ RPAS service provider (company) authorized operations
+ Remote Pilot training and certification as per company requirements including proof of
+passing TC RPAS exam (or equivalent) and advanced certificate
+ RPAS system servicing and maintenance as per Original Equipment Manufacturer (OEM)
+recommendations
+ Company overview/summary
+ Responsible persons
+ Emergency contacts
+ Operational controls
+ Maintenance and flight record keeping process
+ Training management process
+o Normal and Emergency procedures in addition to Loss of C2 Link
+o Loss of visual contact
+o Fly-away
+o Flight control failure
+o Flight termination process
+o Pilot incapacitation
+o Procedures specific to operating offshore including failsafe configuration
+ Operational procedures for adverse weather
+ Use of FPV systems
+ Site survey process
+ Transportation and safe handling of Lithium batteries
+ RPA equipment and systems information
+ Safety management system (or similar type of content)
+4 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+7
+ List of authorized operations
+ Communications processes
+ RPAS servicing and maintenance as per OEM recommendations
+ Description of company policies such as, but not limited to:
+o EH&S
+o Crew duty time
+o Near miss
+o Confined space entry
+o Use of PPE
+o Fire/electrical/fall/medical/chemical/hot work/noise/ladders/vehicle operations
+o Accident/Incident investigation process
+o Drug and alcohol usage and testing
+o Hazard reporting
+It is important for the Operator to review, understand and approve the safety and
+communications procedures that an RPAS operations team will follow during the tasking. The
+procedure should, as a minimum, contain the following details:
+1. RPAS specifications and limits
+i. RPAS technical specifications
+ii. RPAS operating limitations and restrictions
+iii. RPAS certification
+2. Description of operation including the scope(s) of work to be executed
+i. Required equipment and personnel
+ii. Permit to work system
+iii. Securing the airspace
+iv. Take-off and landing sites
+v. Airborne procedures including details of flight paths and no fly zones
+vi. Communications protocol
+vii. Site specific risk assessment
+3. Restricted access
+i. Restricted access to areas with hazardous atmospheres identified and appropriate
+mitigation measures in place
+ii. Restricted access to areas of known or potential magnetic or radio wave
+interference identified and appropriate mitigation measures in place
+iii. Overfly, security and privacy restrictions identified and mitigated for operations
+adjacent to assets and people on and offshore (i.e. no overflight of personnel)
+4. Emergency response plan
+i. Fire and gas alarms/release response procedures
+ii. Blowdown/increased flare rate response procedures
+iii. Emergency procedures for RPAS operational upset conditions
+iv. RPAS contingency plan
+5. Preventive Measures
+i. Prop/rotor failure
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+8
+ii. Loss of payload/dropped object risk
+iii. Battery failure
+iv. Loss of communications link/cyber interference
+v. Resistance to magnetic disturbances and anomaly
+vi. Log file recording
+Detailed requirements for a RPAS operations manual are expanded in Appendix B of this
+document.
+7.0 MANAGING RPAS OPERATIONS ON OFFSHORE FACILITIES
+7.1 Management of RPAS Operations on a Marine Installation or Structure
+7.1.1 Management Roles and Responsibilities for Offshore RPAS Operations
+The OIM (or the vessel master when applicable) is responsible for all activities undertaken on a
+MIS. This includes ensuring that all conflicting/simultaneous RPAS operations have been properly
+risk assessed, robust procedures are in place and trained and competent personne l are assigned
+to manage the RPAS activities.
+As per Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1, 2017, day
+to day delegated responsibilities will normally include: 5
+ The installation maintenance manager (or an alternate nominated responsible person)
+providing a single point of contact to manage all RPAS team activities on and around the
+MIS.
+ Another person, such as the helicopter landing officer (HLO) (or an alternate nominated
+responsible person) should provide direct communications to the RPAS team regarding
+ongoing operations onboard the MIS and may also act as an additional visual observer
+for flight operations on and around the MIS. This would include communications from
+the control room/bridge, heli-admin and/or radio room to provide weather updates,
+helicopter inbound timings, updating on other work that may affect the RPAS
+operations (e.g. over the side work, etc.).
+ The Radio operator should be responsible for ensuring de-confliction between RPAS
+operations and other aircraft or vessels. The radio operator is responsible for ensuring
+other nearby offshore units have been informed of the RPAS operations (e.g. the standby
+vessel) advising the areas of operation etc. on and around the MIS.
+5 (Oil and Gas UK, UAS Operations Manual Standards and Guidelines Issue 1, 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+9
+7.1.2 Control/Oversight of RPAS Operations in the Offshore Installation Environment6
+Communications between the RPAS team and installation supervisory personnel onboard the
+MIS shall be established as part of the pre-task requirements and should be adhered to at all
+times throughout the RPAS operations.
+The appropriate authority (e.g. OIM or vessel master) onboard the MIS will appoint a nominated
+person as a single point of contact to manage the permit to work (PTW) system on behalf of the
+RPAS team (in the event the RPAS team have not done a company specific PTW course). RPAS
+team shall attend shift handover meetings onboard the MIS.
+The HLO (or an alternate nominated responsible person) will normally act as the RPAS team
+communication link to the installation control room, heli -admin and/or radio room to provide
+weather updates, helicopter inbound timings, and updates on other work that may affect the
+RPAS operations (e.g. over the side work, etc.).
+The radio operator is responsible for ensuring other nearby offshore units have been informed
+of RPAS operations (e.g. the standby vessel) on and around the MIS.
+The RPAS operating team is responsible for ensuring that RPAS operations cease with the RPAS
+on-deck and helideck cleared at least 30 minutes prior to any scheduled helicopter arrival. Where
+an installation/MODU/vessel is in close proximity (1-2NM) to other potential helipad sites, the
+same requirement to land and pause operations must be adhered to. 7
+Should the RPAS be operated in close proximity to radar antennas on an MIS, those antenna
+systems must be placed in STANDBY, with radar monitoring provided by the standby vessel(s)
+which should be 500 meters or more from the installation. This operational mode is critical to the
+flight safety of the RPAS, and failure to do so can cause significant interference between the RPAS
+and the ground station (C2 link). This includes navigation and weather radar, as well as radar used
+for tanker management.
+7.1.3 RPAS Team Offshore Safety Training Requirements
+Safety training for all personnel travelling offshore, (i.e. BST, HUEBA, Offshore Medical, etc.) shall
+be in accordance with Accord Act legislation and associated Regulations. Refer also to C-NLOPB
+and CNSOPB guidance and referenced standards (Training and Qualifications Standard Practice
+(TQSP)).
+6 ibid
+7 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+10
+7.1.4 Permit to Work Requirements
+Permit To Work (PTW) requirements for undertaking RPAS operations on an MIS will be
+conducted using the existing Operator’s PTW procedures. These PTW procedures will be
+administered under the close scrutiny of the OIM or a designated alternate.
+Prior to undertaking RPAS operations, at least one member of the RPAS team shall have attended
+a formal PTW training course. In addition, the RPAS operations team should nominate a
+competent person to act as the PTW focal point for the task and be responsible for ensuring that
+PTW compliance is maintained throughout the on-board RPAS operations.
+7.2 RPAS Service Provider Control of RPAS Operations Offshore
+7.2.1 RPAS Manager and Flight Team Roles and Responsibilities
+All of the RPAS activities should be overseen remotely by the service provider’s operations
+manager or project manager who supports the RPAS team with assignment preparation,
+operations and assignment of post operations duties and acts as the Operator liaison.
+Normal RPAS Team composition at the work site should be comprised of a Remote Pilot and an
+observer/camera operator.
+7.2.2 RPAS Pilot Operations Manual
+A RPAS service provider should have a comprehensive operations manual that is routinely kept
+up to date and approved by the RPAS company accountable manager. When applicable, the
+manual should also be approved by the regulatory authority (e.g.TC) and subject to contractual
+requirement, by the Operator’s aviation advisor. A sample contents list is provided in Appendix
+B.
+Access to the RPAS pilot operations manual should be made available to the Operator prior to
+and during the contract for RPAS services.8
+7.2.3 Communications
+During RPAS operations, it is a mandatory requirement to establish a formal means of
+communication between the RPAS pilot and payload operator and additionally, between the
+RPAS operator and the MIS (e.g. radio room, central control room, bridge).
+Note: Communications between the RPAS operator and MIS may be controlled by the RPAS
+observer.9
+8 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+9 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+11
+7.2.4 Familiarization with Installation Topography and Hazardous Areas
+Prior to undertaking any RPAS activities on or near a MIS, the RPAS operations team, assisted by
+the operator shall familiarize themselves with the layout, topography, processes, hazardous
+areas and the types of upsets or emergencies that may occur. Focus should be on ensuring that
+the planned RPAS operations can be safely managed without interference or jeopardizing other
+on-board operations. This familiarization shall occur prior to completing the formal hazard
+identification and risk assessment for the activity as risks and hazards may be identified by the
+RPAS crew that would not typically be identified by the operator and vice versa.10
+7.2.5 De-confliction (during SIMOPS) with Offshore Flight Operations
+Procedures shall be in place to ensure that adequate helicopter (and fixed wing, when applicable)
+de-confliction is factored into the RPAS flight program. As a minimum, the RPAS should be on
+deck and stowed no less than 30 minutes prior to a scheduled helicopter arrival or 30 minutes
+after its departure.
+Prior to planned RPAS operations on a MIS, the HLO/heli-admin (or delegated responsible
+person) shall ensure that communications (written and during shift handover meetings)
+regarding RPAS operations being conducted are made and the times these operations are
+scheduled to take place. Helicopter (and fixed wing) Operators, air traffic control and flight crews
+should also be made fully aware of RPAS activities during the flight planning phase for scheduled
+flights to the MIS and to nearby facilities within the area of operations of the RPAS.
+Updates on the status of RPAS operations shall be communicated to flight crews by the HLO/radio
+operator during the approach phase of the flight, with continual updates being provided
+throughout.11
+7.2.6 De-confliction with Marine Activities
+Procedures shall be in place to ensure that adequate de-confliction with surface vessels servicing
+the MIS is effectively achieved.
+Standby and other vessels working in close proximity to the MIS (e.g. supply vessels, tankers,
+diving vessels, etc.) shall be made aware of ongoing RPAS operations by the radio operator and
+a listening watch maintained. Flight routes of the RPAS shall be such that they avoid flying over
+or directly alongside any vessel in the area. Similarly, de-conflicting with installation crane
+activities is also critical.12
+10 ibid
+11 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1, 2017)
+12 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+12
+7.2.7 RPAS Flight Planning, Conduct and Surveillance
+The RPAS flight team should conduct a pre-operations briefing for each day's activities that
+details, as a minimum, the planned flight schedule, the designated take off/landing area(s),
+location weather forecast including motion conditions for the MIS (as applicable), intended areas
+of RPAS activity, no-fly zones (as determined during the risk/hazard assessment) and potential
+installation operating effects on the RPAS program (e.g. turbulence and thermal effects from
+turbine exhausts, vents, areas of potential radio-frequency/magnetic interference and GPS
+denied areas).13
+The RPAS crew shall verify that they have reviewed the RPAS maintenance records to ensure that
+pre-flight and periodic inspections are up to date and the RPAS is airworthy in all respects.
+7.3 Offshore Transportation and Accommodation of RPAS Personnel and
+Equipment
+7.3.1 Transporting and Accommodating RPAS Personnel Offshore
+Authorization and arrangements for the transportation and accommodation of members of the
+RPAS crew on an offshore MIS is the responsibility of the Operator. Once onboard the MIS efforts
+should be made to keep the flight crew (typically a 2-person team) together in one room or in
+separate rooms if space allows. This is primarily due to crew duty times and rest requirements
+and also provides a space for the crew to rest during down time and weather standby days.
+7.3.2 Manifesting / Transporting RPAS Equipment Offshore by Air or Sea
+RPAS equipment authorized for transportation to an offshore location should be packed,
+manifested and dispatched in accordance with the helicopter service provider, the respective
+operator and RPAS company cargo handling procedures.
+Equipment classified as dangerous goods shall be transported in accordance with TC Dangerous
+Goods (TDG) regulations which covers both air and marine cargo. Equipment classed as
+dangerous goods should be handled and stored onboard a MIS in accordance with the programs
+established onboard the MIS and in accordance with the requirements for hazardous substance
+as outlined in Part 10 of the Transitional OHS Regulations.
+7.3.3 Dangerous Goods Compliance (e.g. Batteries)
+There may be a requirement to transport batteries to an offshore MIS via air freight. If so, the
+batteries must be packaged and transported as per the Transport Canada TDG Regulations and
+the Helicopter Service Provider and offshore installation requirements, relevant to the specific
+13 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+13
+battery type. Appropriate information and instructions should be highlighted on a safety data
+sheet that is specific to the battery. 14
+Batteries should be handled and stored onboard a MIS in accordance with the programs
+established onboard the MIS and in accordance with the requirements for hazardous substance
+as outlined in Part 10 of the Transitional OHS Regulations.
+8.0 OPERATING REMOTELY PILOTED AIRCRAFT SYSTEMS
+8.1 RPAS Operating Requirements and Authorizations
+The aim of a commercial RPAS service is to collect data on an MIS using a variety of on-board
+payloads, while adhering to strict flight safety principals and high standards of professionalism.
+To undertake a RPAS commercial operation, the pilot is required to meet the knowledge and
+competency requirements for advanced operations as listed in CARs Part IX Division V Paragraphs
+901.62-901. It is important to note that should a foreign operator (non-Canadian or permanent
+resident) be hired to do the work, they will not be able to apply for an Advanced Operations Pilot
+Certificate. Instead, they must provide a copy of a TC issued Special Flight Operations Certificate
+(SFOC) that clearly identifies the applicant, names, aircraft and approved locations/dates/times
+for their requested operation.
+In the absence of more detailed operating guidelines it is recommended that RPAS operators
+comply with CARs Part IX, CAA, CAP 722, IOGP and Oil & Gas UK UAS Operations Management
+Standards and Guidelines, as appropriate to the operation. In particular, the RPAS pilot training
+and competence requirements for working offshore shall be adhered to.
+RPAS operators working offshore must be qualified Advanced operators and shall use the TC rules
+for advanced operations as the baseline for all RPAS activities carried out in Canada.15
+8.1.1 RPAS ‘Permission to Operate’ Standard
+To review the requirements for gaining ‘permission to operate’ in Canadian airspace , see TC,
+CARs Part IX, 901.54, 901.62.
+Unless permitted otherwise the following basic requirements apply for RPAS that are 25 kg or
+less:
+ RPAS must be operated within Visual Line of Sight (VLOS) at all times during the flight
+14 https://www.tc.gc.ca/eng/tdg/transporting-batteries.html
+15 See CARs Part IX.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+14
+ RPAS must be Safety Assured for the type of operation based on airspace classification
+and lateral distance to people not associated with the operation. The three classifications
+are:
+o Controlled Airspace
+o Near People (5m – 30m)
+o Over People (Directly overhead – 5m)
+ RPAS must be operated at an altitude of not more than 400 feet above ground level or (in
+the event that operations must be flown higher) within 200 feet laterally and not more
+than 100 feet above a building or structure
+ Night operations require adequate navigation lighting onboard the RPA S
+ No pilot shall operate more than one RPAS at a time
+ RPAS must at all times give way to and not operate at the same time as other crewed
+aircraft; priority will be given to crewed aircraft (see also section 7.2.5)
+Note: It is good practice for RPAS being operated near or over people to incorporate a
+parachute or similar recovery system.
+8.1.2 Quality Management
+A formal quality management system shall be in place. RPAS operating companies should hold
+ISO 9001 certification. This certification scope should cover all the areas of the business that
+contribute to offshore activities.
+The ISO 9001: 2015 (or as updated from time to time) certificate (or equivalent) shall be issued
+by an authority that has been certified to ISO 17021 standards.16
+Additional regulatory certifications such as Lloyd’s Register (LR), DNV-GL, American Bureau of
+Shipping (ABS), etc. should be considered an asset.
+8.2 RPAS Training and Competence
+8.2.1 Introduction
+Commercial RPAS operations can vary significantly in terms of the training and experience
+required for an operator/pilot to be considered competent for a specific task.
+Currently there are numerous types of RPAS operations that are carried out in an offshore
+environment, such as:
+i. Aerial photography/survey/security
+16 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+15
+These operations typically involve flying in an open space away from structures. An example of
+this would be taking overview photographs of an offshore installation. This task requires a lower
+level of skill than required for close inspection flying, as the pilot will have more time and space
+to react to system anomalies or failures or changes in weather conditions. Nevertheless, the pilot
+should undertake additional training in accordance with operator directed standards and be
+assessed as competent against an industry approved set of criteria before being deemed
+competent to carry out offshore aerial photography or survey tasks.
+ii. Inspection operations
+These operations account for the majority of RPAS offshore activities. This usually involves flying
+over water, and/or close to or under structures, in order to get detailed imagery or data of the
+MIS. An example would be conducting a close visual inspection of a flare boom. Flying close to
+structures carries a potentially higher degree of risk as the pilot has less time to react to an
+unplanned event. There is also a higher probability of encountering turbulent air, the presence
+of explosive atmospheres and systems anomalies caused by severe magnetic disturbance, loss of
+GPS, etc. The pilot should therefore receive additional training in accordance with operator
+directed standards and be assessed as competent against an industry approved set of criteria
+before being deemed competent to carry out offshore inspection operations. These criteria will
+be more rigorous than those required for aerial photography/survey activiti es.17
+Additional guidance is provided in the Oil and Gas UK, UAS Operations Management Standards
+and Guidelines Issue 1, 2017 & Transport Canada CARs Part IX
+8.2.2 Managing RPAS Team Training and Competence
+Commercial RPAS operating companies will generally be expected to manage and conduct their
+flying activities in a manner similar to established aviation industry practices. This includes
+promulgating the policies, practices and procedures required for RPAS pilot and support team
+training, recurrent training, competence and currency requirements and line checks, etc.
+Processes for RPAS pilot selection, initial and recurrent type training, currency requirements,
+competence assessment and record keeping should be determined by the individual RPAS
+operating company and be embedded in the management system. To this end, the RPAS
+company’s operations manual shall have detailed RPAS type training and recurrent training
+policies with adequate systems in place for undertaking periodic competency checks for each
+offshore RPAS pilot/team member.
+With rapid advances in the deployment of RPAS, it is expected that potential offshore RPAS pilots
+will be drawn from a pool of pilots with previous RPAS operational pilot experience. It is
+important for commercial RPAS operating service providers to structure their training and
+17 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1, 2017) & (Transport Canada CARs Part IX)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+16
+competence assessment policies to ensure pilots meet the requirements for complex offshore
+RPAS operations.
+The RPAS service provider shall also maintain up-to-date records of qualifications, training and
+competence assessments for each individual RPAS pilot/crew member assigned to offshore RPAS
+duties.
+As part of the Operator’s oversight, training records, along with the operations and training
+manual, shall be reviewed by a competent aviation auditor appointed by the Operator, prior to
+deploying a RPAS team offshore.
+MIS Operator aviation auditors should use their company aviation auditing standards already in
+place for fixed and rotary wing and generally apply these to RPAS operations, with minor
+amendments. Airworthiness and maintenance should be performed in accordance with OEM
+instructions, CARs Part 9 (901.29, 901.30, 901.31).
+8.2.3 Remote Pilot Selections Standard
+The commercial RPAS service provider selection process for employing potential RPAS pilots,
+engineering and support staff and contractors should follow a structured and well-defined
+process that is commonplace in the aviation industry for recruiting personnel for training to
+operate as licensed professionals.
+Following a successful application, the candidate should proceed to personal and technical
+interviews, and a practical RPAS flight assessment. To achieve the goal of qualifying as an offshore
+RPAS pilot, candidates should also be able to demonstrate an aptitude for working and flying a
+RPAS in a hostile environment.18
+8.2.4 RPAS Pilot Initial Training and Experience
+Operating a RPAS in and around offshore marine installations and structures requires
+experienced and specifically trained Remote Pilots. There are many variables to be considered
+during the planning for and execution of a RPAS survey and/or inspection. Many of these
+variables can be taught in a benign environment but a significant number come only from
+experience and competence gained by flying in and around different structures in a hostile
+environment.
+An individual must be able to demonstrate an acceptable level of training and competence prior
+to flying in offshore environments.
+18 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , Section 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+17
+Initially, an offshore installation RPAS pilot shall attend and pass examinations at a RPAS flight
+training ground school followed by practical flight assessments conducted by a TC qualified flight
+reviewer in accordance with CARs Part IX.
+The initial training course should include but not necessarily be limited to:
+Theory
+ Aeronautics Act
+ CARs
+ Airmanship and aviation safety
+ Human factors
+ Meteorology
+ Principles of flight
+ RPAS components
+ Airspace classification
+ Basic map reading
+ Operating procedures
+ Radio communications
+Practical Flight Assessment
+ The student must be able to demonstrate skills including take-off, climb, descent, turning,
+judging distances, maintaining altitude, safe operation following the sudden loss of GPS
+stability and landing
+ Recovery from unusual situations - lost link, fly away, etc.
+ Assessments should be carried out using all flight modes (in particular manual flight
+mode) if students are intending to undertake offshore operations
+ Understanding how the RPAS operates in extreme weather (cold, high winds, gusts, fog,
+etc. is critical to the success of an offshore RPAS operation)
+Regardless of prior experience, all potential remote pilots are required to obtain a TC Remotely
+Piloted Aircraft Systems Pilot Certificate (Advanced Operations) before undertaking specific
+offshore training and certification. Obtaining this level of training, experience and demonstrated
+competence is vital to ensure a RPAS is operated in a safe and professional manner at all times.
+Refer to Transport Canada, CARs Part IX, 901.64 & (additional guidance provided in Oil and Gas
+UK, UAS Operations Management Standards and Guidelines Issue 1, 2017)
+8.2.5 Offshore Remote Pilot and Support Crew Training, Recurrent Training,
+Competence and Currency Requirements
+The commercial RPAS service provider training system for candidates to advance toward gaining
+a RPAS pilot authorization for undertaking offshore activities, shall be promulgated in the
+company’s operations manual (COM).
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+18
+The ground school and flight syllabus covering advanced offshore flight training (including RPAS
+flight training for camera and inspection operations) and a formal assessment of competence is
+required before a student is permitted to act as a remote pilot for offshore projects. These shall
+be in accordance with local regulations (e.g. TC). Training should include but not be limited to:
+Ground Training:19
+ Further systems training - GPS vulnerabilities, magnetic interference issues and flight
+system dependencies – Inertial Measurement Unit, Barometer, GPS and interaction with
+the flight control systems
+ Hazard awareness and risk management in complex industrial (offshore) environments
+ Data collection techniques
+ Shipping Dangerous Goods by Air training
+ Advanced systems knowledge - flight systems theory
+o GPS multipath
+o Accelerometer and gyro errors
+o Magnetic interference influence on flight systems
+o Electromagnetic interference effects
+o Local barometric pressure anomalies and effects
+o Autopilot control theory, Kalman filters and combination effects of sensor
+degradation
+o Offshore weather and sea influences
+o Advanced data collection techniques
+Onshore Flight Training:
+ Operations in magnetic interference areas
+ Operations in congested areas
+ Operations in potentially explosive environments
+ Manual flight skills assessments in confined areas and close to structures
+Once a candidate is assessed as suitable for upgrading to offshore RPAS pilot, students should
+undertake a further training package that includes scenarios that could be expected to be
+encountered onboard an offshore installation.20
+Flight Training:21
+ Advanced manual flight - look-down scenarios, close to structures, all orientations
+ Operations around magnetic interference inducing structures
+ Operations under deck and look-down scenarios including GPS denied areas
+ Close visual inspection operations at distances >50m from pilot position
+ Operating in induced turbulence and rotor streaming areas
+ Recovery from unexpected conditions or system failures
+19 (Oil and Gas UK, UAS Operator Training and Competency Section 4.2)
+20 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+21 (Transport Canada, CARS Part IX, 901.63, 901.64)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+19
+Less experienced offshore RPAS pilots should initially be supervised/mentored on-site by an
+experienced industrial survey/inspection RPAS pilot instructor. This period of supervised work
+should be carried out in an industrial/commercial survey/inspection environment (either
+onshore or offshore) before being considered for an offshore Pilot in Command (PIC) role.
+Recurrent Training
+RPAS pilot recurrent training and line checks shall be carried out in accordance with CARs Part IX
+and company Standard Operating Procedures (SOPs)/internal policy.
+8.2.6 Minimum Crew Composition and Competence Requirements
+For the purposes of offshore surveys and inspections using RPAS, the RPAS service provider
+should deploy, at all times, a minimum crew composition of two persons forming the 'RPAS team'
+plus one observer provided by the Operator. The RPAS team should be comprised of the following
+qualified and current individuals:
+1. Remote pilot (PIC) and a payload operator or;
+2. Remote pilot (PIC) and an inspection engineer
+A team made up of two newly qualified pilots each with less than 10 hours supervised
+industrial/commercial survey/inspection flight experience on airframe type, should not be
+considered safe to work in an offshore environment.22
+8.2.7 RPAS Visual Observer
+To assure safe operations, the RPAS team and aircraft shall be visually observed by a responsible
+person familiar with the MIS and its operational safety requirements. The visual observer should
+also be the radio link between the RPAS team and the MIS to assure agreed processes are being
+followed against the predetermined safety plan and corrective actions are taken in the event of
+an incident (call to muster, etc.) during RPAS operations.
+The visual observer must be able to observe/see the RPAS without being immersed in a virtual
+world which precludes them from spotting other hazards (e.g. remote video terminals
+first-person view device operations). Therefore, the use of video goggles is not acceptable while
+performing visual observer duties.23
+22 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+23 ibid.
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+20
+8.3 RPAS Equipment
+8.3.1 RPAS Rotorcraft Airframe/Load Platform
+The choice of RPAS airframe/power plant/load platform configuration for specific tasks is the
+joint responsibility of the Operator and the RPAS service provider and should include the
+following considerations during the selection process:
+ A reliable (reliability data should be available) and safe, fit-for-purpose RPAS system
+ That the following criteria should be inherent in the selected RPAS system to qualify as
+'fit for purpose' for offshore operations:
+o The RPAS airframe is of robust design and construction (materials and component
+selection should be of an acceptable standard);
+o The RPAS is capable of sustained flight by aerodynamic means;
+o The RPAS is remotely operated either manually or automatically through a ground
+control station controlled by the remote pilot;
+o The RPAS has robust loss of link capability and resistance to cyber-attack;
+o The RPAS maximum operating range is accurately defined and formally recorded
+to ensure, as far as reasonably practicable, that under normal operating
+conditions a fly away event is unlikely to occur;
+o The RPAS is certified for operations in the environment in which it is being used
+(i.e. a potentially explosive atmosphere or a harsh environment); and
+o The RPAS system has been reviewed and accepted by a competent authority (i.e.
+certifying authority).
+ The RPAS has flight control and battery redundancy and is equipped with the following
+modes and software architecture:
+o Automatic GPS modes (unless being operated in a GPS denied environment)
+o Automatic height modes
+o Manual backup modes
+o Return to Home (RTH) capability
+ The RPAS should have a mobile control station equipped with manual controls and backup
+capability when automatic modes are not available to the remote pilot.
+The RPAS shall have the ability to be landed in a controlled manner in the event of a single
+motor/propulsion failure.24 If circumstances allow a disabled RPAS should be ditched in the ocean
+rather then landed on the facility.
+8.3.2 RPAS Power Plants and Rotor Systems
+The power plants (e.g. electrical motors) are critical components and have a direct effect on
+overall RPAS performance. All power plants used in the RPAS shall be routinely and properly
+maintained as part of the RPAS system maintenance program.
+24 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1, 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+21
+The RPAS systems maintenance program shall be fully detailed in the operations manual.
+Multi-rotor RPAS platforms shall be high reliability and possess sufficient redundancy in the
+propulsion/rotors system to permit continued, fully controlled flight in the event any one power
+plant becomes inoperative.
+Note: Sufficient propulsion/rotor system redundancy to achieve a high level of flight safety is
+unlikely to be achieved with a quad copter. In cases such as these alternative recovery methods
+(such as a parachute system or ditching in the ocean) should be considered.
+The RPAS service provider is required to provide performance data on the type of power plant
+being used and how environmental conditions in which the RPAS is being operated affects power
+plant output. Additionally, this performance data should extend to determination of how usage
+(i.e. accumulated operating time) reduces power plant performance. This is an important safety
+factor. (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1, 2017)
+8.3.3 RPAS Battery Requirements
+Batteries used for powering the RPAS propulsion/rotor systems (including electronic speed
+control), flight control systems (e.g. receivers, transmitters, servos and flight management),
+payload components (e.g. cameras, etc.) and ground stations vary greatly in type, capacity and
+operating characteristics. Invariably, the batteries used in any RPAS will be susceptible to impact
+damage and incorrect charging, among other things (e.g. ambient temperature and charge
+cycles).
+It is therefore imperative that the RPAS service provider’s operations manual, fully details all
+battery types used (e.g. Lithium polymer (LiPo), NiMH, Li-ion, Alkaline) and the associated safety
+instructions/precautions for battery management, charging and discharging, packing, carriage by
+air and sea and battery disposal.25 Batteries should be handled and stored onboard a MIS in
+accordance with the programs established onboard the MIS and in accordance with the
+requirements for hazardous substance as outlined in Part 10 of the Transitional OHS Regulations.
+8.3.3.1 Battery Management
+Healthy and fully functioning batteries are integral to ensuring the safe and efficient operation
+of a RPAS and completing the assigned tasks in a timely manner. To ensure this, RPAS service
+providers shall have a battery management system in place that as a minimum should include
+the following key areas:
+ Battery Inventory - To ensure sufficient batteries are available for the assigned task and
+to provide accountability for all batteries transported to and used at the work site
+ Battery Charging - LiPo batteries should be handled and managed with great care to
+ensure they remain undamaged and properly protected during charging and discharging
+25 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+22
+cycles and cell testing. During charging, discharging and cell testing, LiPo batteries should
+be placed in a robust fire proof enclosure to contain any fire condition that may
+potentially arise (i.e. due to shorting between cells). There is also a requirement for the
+area where batteries are stored and maintained to be properly ventilated
+ Battery Health Checks - Specific checks (depending on battery type) are carried out to
+ensure that batteries are in a suitable condition and retain the requisite charge to
+complete the task safely. Any battery that does not reach the minimum standards or
+shows signs of being faulty should be removed immediately, quarantined and properly
+documented
+Under no circumstances should damaged or faulty batteries be used in an RPAS or
+transported by air.
+ Battery Disposal - Damaged or underperforming batteries should be removed from the
+battery line, quarantined and noted on the task inventory
+If a battery is damaged or is found to be faulty it should be brought to the attention of the person
+on the installation responsible for managing disposal of hazardous waste from the installation.
+The installation will have procedures in place for hazardous waste disposal and these batteries
+should be fully discharged and brought ashore (by sea) and disposed of by a registered waste
+collection company, compliant with Environmental Protection Plan and Waste Guidelines . The
+number of times a battery has been charged and discharged shall be recorded. If the battery
+cannot be safely discharged due to damage, it is recommended to submerge the battery in salt
+water (ocean water) for 72 hours before disposing. In the event of a battery emergency
+(fire/thermal runaway, etc.) battery-specific emergency response equipment
+(extinguish/containment) shall be readily available on site.26
+8.3.4 RPAS Electronic and Data Capture Systems Requirements
+Data capture should always be made in its raw format. Considerations should be given to the
+following:
+ Metadata associated with the imagery should be available
+ Maintenance of the integrity of the raw imagery during the storage process
+ Alterations or amendments to the raw imagery stored separate to original raw data image
+and associated meta data
+Data storage from Secure Digital card or origin hard drive to central server should ensure the
+following:
+ Continuous chain of custody
+26 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+NS Act: 210.019(1)(h)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+23
+ Local storage data encryption
+ Central storage data encryption
+ Once data centrally held, appropriate security policy and backup management
+8.4 RPAS Limitations
+8.4.1 Visual Conditions for Operations
+The term visual meteorological conditions (VMC) does not really apply to VLOS operations
+because there are no specifically laid down VMC criteria for this. An RPAS can be operated safely
+on the exterior of an installation in weather conditions that are much lower than the VMC minima
+for manned aircraft.
+The key element is that the RPAS is kept within the direct, unaided VLOS of the person flying it
+and the visual observer - in other words, the remote pilot and visual observer have to be able to
+see the aircraft at all times. This principle can be carried on to night operations also. If the aircraft
+can be seen and controlled safely at night while when flying in a floodlit area for example, there
+should be no major reason to prevent the flight taking place - again, the key point is whether or
+not the RPAS can be seen clearly by the crew. TC rules dictate that adequate
+positional/navigational lighting is required for night operations.
+When night time operations are required on the exterior of an installation, adequate lighting
+must be provided to ensure the pilot has visual contact with the RPAS at all times. Night time
+operations must be in accordance with TC/NAV Canada/operator regulations and/or guidance,
+as appropriate to the operation.
+RPAS operations in confined spaces such as tanks and voids shall be subject to special
+consideration, risk assessment and rigorous work permit controls. V isual conditions in these
+cases will be dependent on the provision of sufficient artificial lighting to allow good visual
+references to be obtained, to ensure that proper RPAS control can be maintained throughout the
+flight duration. If the RPAS Pilot is to enter a confined space, they must have the appropriate
+confined space training and in accordance with Part 11 of the Transitional OHS Regulations and
+entry into the confined space must be performed in accordance with the established PTW
+process onboard the MIS and the space must be confirmed to be gas and hazard free (including
+maintaining a safe distance from any personnel as per CARs Part 9) and monitored throughout
+the operation. 27
+27 (Oil and Gas UK, UAS Operations Management Standards and Guidelines Issue 1 , 2017)
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+24
+8.4.2 Weather Considerations
+8.4.2.1 Wind
+The Operator’s adverse weather policy (or established weather limits) is the controlling factor for
+all offshore installation operations, including RPAS flights.
+Due to the extreme weather conditions encountered in the Atlantic Canada Offshore Petroleum
+Area, wind and weather are both very important considerations when performing RPAS
+operations. The RPAS operational envelope should specify the wind limits for the type of RPAS in
+use and the type of operations being conducted, and this could be below the established
+operating limits for the MIS.
+If the weather forecast shows that wind conditions are anticipated to be outside of the RPAS
+operating limits at some stage during the flying task, the Remote Pilot should land the RPAS 30
+minutes prior to the forecasted change. Frequent monitoring of winds during the operations is
+necessary and should be coordinated with personnel responsible for monitoring the weather
+onboard the MIS.28
+8.4.2.2 Precipitation
+Rain and moisture can affect some exposed parts of the RPAS and its payload, additionally it can
+potentially degrade the quality of the imagery. This is an important consideration for the RPAS
+pilot when selecting the RPAS system (e.g. airframe and payload) for the specified task and shall
+be fully considered in the Risk Assessment.29
+8.5 Record Keeping
+Full formal and detailed records of RPAS flights, flight hours, tasking and maintenance shall be
+maintained by the RPAS service provider and these requirements should be prescribed in the
+operations manual.
+All RPAS crew members (e.g. pilots, observers, maintainers, etc.) should be in possession of a
+log book that provides a continuous personal record of individual qualifications, regulatory and
+company authorizations, training, recurrent training, task competencies and flights/tasking
+carried out.30
+28 ibid
+29 ibid
+30 ibid
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+25
+REFERENCES
+1. Atlantic Canada Offshore Petroleum Standard Practice for the Training and Qualifications
+of Offshore Personnel - Atlantic Canada Offshore Petroleum Training and Qualifications
+Committee – April 2020
+2. Legislation and Guidance: Statutes - Canada-Newfoundland & Labrador Offshore
+Petroleum Board – 1990
+3. Legislation and Regulatory Instruments - Canada-Nova Scotia Offshore Petroleum Board
+(CNSOPB) (https://www.cnsopb.ns.ca/regulatory-framework)
+4. Unmanned Aircraft System Operations in UK Airspace- Guidance (CAP 722) - Civil Aviation
+Authority – Sixth Edition March 2015
+5. TDG Regulations – Government of Canada – May 2019
+6. Publication Advisort Circular AC 922-001: Remotely Piloted Aircraft Systems Safety
+Assurance - Transport Canada – Government of Canada
+7. Aeronautics Act – Justice Laws – Government of Canada
+8. Canadian Aviation Regulations (SOR/96-433) – Justice Laws – Government of Canada
+9. Canadian Aviation Regulations – Part IX – Remotely Piloted Aircraft Systems –
+Government of Canada
+10. Unmanned Aircraft Systems (UAS) Operations Management Standards and Guidelines -
+Oil and Gas UK – Issue 1 January 2017
+11. Aviation-RPAS Safety – Transport Canada - Government of Canada – 2019
+12. Knowledge Requirements for Pilots of Remotely Piloted Aircraft Systems 250 g up to and
+including 25 kg, Operating within Visual Line-of-Sight (VLOS) (TP 15263) – Transport
+Canada – Government of Canada – Second Edition October 2018
+13. Standard 922- RPAS Safety Assurance – Transport Canada – Government of Canada – 2019
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+1
+APPENDICES
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+1
+APPENDIX A
+Sample Content for RPAS Operational Safety Plan
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+1
+Appendix A: Sample Content for RPAS Operational Safety Plan31
+The safety plan is an important operational document specific to offshore MIS and shall be
+mandatory for all RPAS operations. The purpose of the safety plan is for the Operator to fully
+understand the safety and communications procedures that a RPAS operations team will follow
+during the tasking, prior to giving approval for the project to proceed. The safety plan should
+contain the following details:
+1. Introduction
+2. RPAS Specifications and Limits
+a. RPAS technical specifications
+b. Limitations and restrictions
+3. Operation description
+a. Scope of work(s) to be executed
+b. Required equipment and personnel
+c. Securing the airspace
+d. Take-off and landing sites
+e. Exclusion zones (no fly zones)
+f. Airborne procedures including details of flight paths
+g. Communication protocol
+4. Operations Restricted Access
+5. Alarms
+a. Fire and gas release
+b. Blowdown/increased flare rate drill
+6. Preventive Matters
+a. Prop failure
+b. Loss of payload/dropped object risk
+c. Battery failure
+d. Loss of communication link
+e. Resistance to magnetic disturbances and anomaly
+f. Log file recording
+31 Oil and Gas UK
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+APPENDIX B
+Sample Content for RPAS Pilot Operations Manual
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+1
+Appendix B: Sample Content for RPAS Pilot Operations Manual
+Part A – General
+1. Organization and Responsibility
+a. Scope
+b. Purpose
+c. Company structure and accountable managers (include organogram)
+d. RPAS services description
+e. RPAS equipment overview
+f. Regulations and guidance
+i. Aviation regulatory compliance
+ii. C-NLOPB/TC guidance
+g. Operations and training personnel
+i. Operations director/operations manager
+ii. Remote pilot
+iii. RPAS camera/payload operator
+iv. Remote pilot instructor
+2. Company Authorizations
+a. Operation description
+b. TC/NAV Canada Permission for Aerial Work
+c. Other permissions (if applicable)
+d. Company personnel training and competency requirements
+e. Company personnel medical requirements and certification ( if applicable)
+3. Risk Analysis Model
+a. Policy
+b. Risk assessment
+c. Method statement
+d. Safety plan
+4. Safety Management System (or equivalent)
+5. Quality Control System
+a. ISO 9001:2015
+6. Rest Time Policy and Human Factors
+a. Policy
+b. Human factors
+7. General Operating Procedures and Restrictions
+a. Remote pilot basic requirements
+i. Remote pilot qualification
+ii. Conduct
+iii. Remote pilot specific duties
+iv. Competency
+b. Met assessment
+c. Pre-flight duties
+d. Airspace management
+e. Flight procedures
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+2
+f. VLOS
+g. RPAS system basic requirements
+h. Checklist procedures
+i. Checklist information
+j. RPAS team operations
+k. Loss of link
+l. Airworthiness
+m. Post-flight duties
+n. Tech Log
+o. Logbook
+8. Accidents and Incidents
+a. Incident reporting
+b. Post-accident management
+c. Remote pilot grounding
+9. Types of Operations
+a. Description
+b. VLOS
+c. Authorized operations
+Part B – RPAS System Manual
+1. General
+2. Checklists
+3. Description of the RPAS
+a. Remotely Piloted Aircraft Systems
+b. Mobile control station
+c. Payloads
+d. Batteries and chargers
+e. Transport case
+4. RPAS Operation
+a. General safety
+b. Flight modes
+i. GPS mode
+ii. Height mode
+iii. Manual mode
+c. Automated system checks
+d. Emergency modes
+e. RPAS setup procedures
+f. Mission control station setup procedures
+g. Flight phase
+i. Launch procedure
+ii. Mission procedure
+iii. Recovery procedure
+h. Visual and acoustic warnings
+i. Limitations information
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+3
+5. Status Display
+a. Functions
+b. Emergency modes
+c. Display menus
+6. Waypoint Navigation
+a. Automation
+b. Mode redundancy
+c. Geo-reference
+d. GPS
+e. Payload control
+f. RVT payload control
+Part C - Authorized Operations
+1. Offshore Installation Inspections
+a. Introduction
+i. General
+ii. Applicable documents
+iii. Onshore inspection
+iv. Offshore inspection
+2. Standard Operating Procedures (SOP)
+a. Preparation
+i. RPAS minimum serviceability
+ii. Infrastructure study
+iii. Equipment and inventory
+iv. Operations assignment
+v. Safety plan
+vi. Risk assessment
+vii. Method statement
+b. Inspection types
+i. Onshore
+ii. Offshore
+Part D - Remote Pilot Training
+1. General
+a. Policy
+b. Objectives
+c. Applicable documents
+d. Approved training RPAS
+e. Instructional staff duties and responsibility
+f. Pilot instructor
+g. Trainee evaluation
+2. Ground School
+a. General
+b. Objectives
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+4
+i. Course description
+ii. Course contents
+iii. Supplementary training
+c. C-NLOPB/CAPP minimum training
+i. BST
+ii. HUET/ HUABA
+iii. Offshore medical
+iv. Fall Arrest, CSE, H2S, etc. (as required)
+3. Camera Operation Training
+a. RPAS team operations
+b. Remote viewing terminal (RVT) - If required/permitted
+c. Communications procedure
+4. Industry Specific RPAS Inspection Training
+a. Payload operations
+5. Initial RPAS Training
+a. General
+b. Training RPAS familiarization
+c. Emergency procedures
+d. Degraded mode RPAS flight training
+e. GPS
+f. Height
+g. Manual
+h. Initial RPAS training flight test
+6. Advanced RPAS Training
+a. General
+b. Inspections training against infrastructure
+c. Task specific flight training (e.g. surveillance, photographic, infrastructure
+inspection)
+d. Advanced RPAS training flight test
+7. RPAS Inspection Type Training
+a. Inspection RPAS familiarization
+i. Payload
+ii. Circuits
+iii. Modes - GPS; height; manual
+iv. Emergency
+b. Inspection RPAS type training against structures
+c. Type training flight test
+d. Remote pilot consolidation training
+e. Scope
+f. RPAS team ops
+g. Mentor program
+Canada-New foundland and Labrador Offshore Petroleum Board Remotely Piloted Aircraft Systems Guidance
+Canada-Nov a Scotia Offshore Petroleum Board
+5
+Part E - RPAS Maintenance and Servicing
+1. Policy
+a. RPAS maintenance policy
+b. RPAS maintenance schedules and periodicity
+2. RPAS Accountable Managers and Technicians
+a. Independent checks
+b. Extensions and U/S equipment red line entries
+3. Technical Log
+4. Minimum Equipment List
+5. Spares Stores and Inventories
+6. RPAS Cleaning
+7. Batteries
+a. Inspection procedures
+b. Storage and disposal
+c. Transport (including Dangerous Goods requirements)
+d. Charging practices and precautions
+e. Tracking and Inventory arrangements
+8. Routine Maintenance
+a. Mission control station
+b. Other inspections equipment
